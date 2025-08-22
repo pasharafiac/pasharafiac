@@ -70,5 +70,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pasharafiac/pasharafiac/output/snake.svg" alt="Snake animation" />
+<img src="profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
